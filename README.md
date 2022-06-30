@@ -5,11 +5,11 @@ This project is a tic-tac-toe game with a 3*3 size field. The game provides the 
 
 > Menu loop can interpret two commands: start and exit.
 
-> The command start should take two parameters: who will play X and who will play O. For example: 
+> The command "start" should take two parameters: who will play X and who will play O. For example: 
 * start user user
 * start user easy
 * start medium user
 * start user hard
 * start hard easy
  
-> The exit command should simply end the program.
+> The "exit" command should simply end the program.
